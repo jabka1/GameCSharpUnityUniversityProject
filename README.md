@@ -4,6 +4,12 @@ Welcome to the Programming Game Applications! This repository serves as a storag
 
 <br>
 
+## Description
+
+A simple 2D chess game using Unity
+
+<br>
+
 ## Team
     - Ilya Senkiv
     - Artem Romaniuk
